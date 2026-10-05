@@ -1,0 +1,47 @@
+# Employee Management CLI
+
+A simple Employee Management System built using **Python CLI**.
+
+## Features
+
+* Add Employee
+* Update Employee
+* Delete Employee
+* Search Employee
+* List Employees
+* Highest Salary
+* Average Salary
+* Department Filter
+
+## Technologies
+
+* Python
+* Lists & Dictionaries
+* Functions
+* Loops
+* Conditional Statements
+
+## Programming Practice
+
+15 Python problems were also practiced, including:
+
+1. Reverse String
+2. Palindrome
+3. Largest Number
+4. Second Largest
+5. Remove Duplicates
+6. Missing Number
+7. Duplicate Number
+8. Character Frequency
+9. Non-Repeating Character
+10. Merge Arrays
+11. Common Elements
+12. Stack
+13. Queue
+14. Maximum Subarray
+15. Sorting
+
+
+ Author
+
+**Yamini Chaware**
